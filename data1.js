@@ -4,32 +4,32 @@ window.CARDS1 = [
 id:"e01", cat:"开发破冰", langs:["RU"],
 title:"俄语破冰首条（WhatsApp/Telegram）",
 tags:["俄语","破冰","WhatsApp","Telegram","俄罗斯","首条消息","Русский"],
-body:`Здравствуйте, [Имя]! Меня зовут [Ваше имя]. Мы в Китае работаем напрямую с заводами-производителями FPV-дронов (5/7/10 дюймов) и агродронов. Поставляем комплекты, рамы, моторы, полётные контроллеры, видеопередачу и запчасти. Работаем с дилерами и оптовиками: образцы от 1 шт., доставка со склада завода. Могу отправить актуальный прайс и видео с производства. Какие позиции вам интересны?`,
-trans:`您好，[名字]！我叫 [你的名字]。我们在中国直接与 FPV 无人机（5/7/10 寸）和植保机的生产工厂合作。供应套机、机架、电机、飞控、图传和配件。我们与经销商和批发商合作：样品 1 台起，工厂仓发货。我可以发送最新报价单和生产视频。您对哪些产品感兴趣？`,
+body:`Здравствуйте, [Имя]! Меня зовут [Ваше имя]. Мы в Китае работаем напрямую с заводами-производителями FPV-дронов любых размеров и агродронов. Поставляем комплекты, рамы, моторы, полётные контроллеры, видеопередачу и запчасти. Работаем с дилерами и оптовиками: образцы от 1 шт., доставка со склада завода. Могу отправить актуальный прайс и видео с производства. Какие позиции вам интересны?`,
+trans:`您好，[名字]！我叫 [你的名字]。我们在中国直接与 FPV 无人机（全尺寸）和植保机的生产工厂合作。供应套机、机架、电机、飞控、图传和配件。我们与经销商和批发商合作：样品 1 台起，工厂仓发货。我可以发送最新报价单和生产视频。您对哪些产品感兴趣？`,
 note:"俄语破冰三要素：①尊称+自我介绍一句；②「中国+工厂直供+产品清单」建立专业感；③「1 台起、工厂发货」消除散单门槛；④开放式问题收尾。对俄罗斯客户用 Вы（您）而非 ты（你），显得正式可靠。"
 },
 {
 id:"e02", cat:"开发破冰", langs:["AR"], rtl:true,
 title:"阿拉伯语破冰首条（WhatsApp）",
 tags:["阿拉伯语","破冰","WhatsApp","中东","阿联酋","首条消息","عربي"],
-body:`السلام عليكم [Name]، أنا [Your Name] من الصين. نعمل مباشرة مع مصانع طائرات FPV بدون طيار (5/7/10 بوصة) وطائرات الرش الزراعي وقطع الغيار. نوفر عينات من قطعة واحدة، والتسليم من المصنع، وأسعار جملة للوكلاء. هل أرسل لكم قائمة الأسعار الحالية وفيديو من المصنع؟ وما المنتجات التي تهمكم؟`,
-trans:`您好 [名字]，我是来自中国中国的 [你的名字]。我们直接与 FPV 无人机（5/7/10 寸）、植保无人机和配件的工厂合作。样品 1 台起、工厂发货，面向代理商提供批发价。需要我发送最新价格单和工厂视频吗？您对哪些产品感兴趣？`,
+body:`السلام عليكم [Name]، أنا [Your Name] من الصين. نعمل مباشرة مع مصانع طائرات FPV بدون طيار (بجميع الأحجام) وطائرات الرش الزراعي وقطع الغيار. نوفر عينات من قطعة واحدة، والتسليم من المصنع، وأسعار جملة للوكلاء. هل أرسل لكم قائمة الأسعار الحالية وفيديو من المصنع؟ وما المنتجات التي تهمكم؟`,
+trans:`您好 [名字]，我是来自中国的 [你的名字]。我们直接与 FPV 无人机（全尺寸）、植保无人机和配件的工厂合作。样品 1 台起、工厂发货，面向代理商提供批发价。需要我发送最新价格单和工厂视频吗？您对哪些产品感兴趣？`,
 note:"中东客户先用「السلام عليكم」（愿平安与你同在）问候，比直接 Hello 更亲近；强调「工厂直供+批发价+1台起」三个信任点；避免周五和斋月白天发消息。"
 },
 {
 id:"e03", cat:"开发破冰", langs:["EN"],
 title:"英文破冰首条",
 tags:["破冰","WhatsApp","Telegram","首条消息","英文"],
-body:`Hi [Name], this is [Your Name] — we work directly with FPV drone (5/7/10-inch) and agricultural drone factories in China. We supply complete kits, frames, motors, flight controllers, video systems and spare parts, with samples from 1 pc and factory-direct shipping. Can I send you our current price list and a short factory video? What products are you looking for?`,
-trans:`嗨 [名字]，我是 [你的名字]——我们直接与中国的 FPV 无人机（5/7/10 寸）和植保机工厂合作。供应套机、机架、电机、飞控、图传和配件，样品 1 台起、工厂直发。我可以把最新价格单和一段工厂短视频发给你吗？你在找什么产品？`,
+body:`Hi [Name], this is [Your Name] — we work directly with FPV drones of all sizes and agricultural drone factories in China. We supply complete kits, frames, motors, flight controllers, video systems and spare parts, with samples from 1 pc and factory-direct shipping. Can I send you our current price list and a short factory video? What products are you looking for?`,
+trans:`嗨 [名字]，我是 [你的名字]——我们直接与中国的 FPV 无人机（全尺寸）和植保机工厂合作。供应套机、机架、电机、飞控、图传和配件，样品 1 台起、工厂直发。我可以把最新价格单和一段工厂短视频发给你吗？你在找什么产品？`,
 note:"一句话自我介绍+产品范围+「1台起、工厂直发」散单友好信号+「视频钩子」+开放式问题。视频是 FPV 品类最有效的破冰武器（飞行画面比文字更有说服力）。"
 },
 {
 id:"e04", cat:"开发破冰", langs:["EN"],
 title:"群组/社媒破冰（FPV群、进出口群、植保群）",
 tags:["群组","社媒","破冰","FPV","植保","Telegram"],
-body:`Hi everyone — we're a China-based sourcing team working directly with FPV and agri-drone factories. For anyone importing drones or parts to Russia / the Middle East: we handle factory-direct pricing, video QC before shipping, and samples from 1 pc. If you need a specific model (5/7/10-inch FPV, frames, motors, VTX, spray systems), drop me a message — I'll reply with specs and price the same day.`,
-trans:`大家好——我们是中国的采购团队，直接与 FPV 和植保机工厂合作。面向俄罗斯/中东进口无人机或配件的朋友：我们提供工厂直供价、发货前视频验货、1 台起样品。如果你需要具体型号（5/7/10 寸 FPV、机架、电机、图传、喷洒系统），私信我——当天回复参数和价格。`,
+body:`Hi everyone — we're a China-based sourcing team working directly with FPV and agri-drone factories. For anyone importing drones or parts to Russia / the Middle East: we handle factory-direct pricing, video QC before shipping, and samples from 1 pc. If you need a specific model (FPV of all sizes, frames, motors, VTX, spray systems), drop me a message — I'll reply with specs and price the same day.`,
+trans:`大家好——我们是中国的采购团队，直接与 FPV 和植保机工厂合作。面向俄罗斯/中东进口无人机或配件的朋友：我们提供工厂直供价、发货前视频验货、1 台起样品。如果你需要具体型号（全尺寸 FPV、机架、电机、图传、喷洒系统），私信我——当天回复参数和价格。`,
 note:"群组（FPV 玩家群、无人机进出口群、植保群）破冰：不要硬发广告链接，用「价值清单+当天回复」的承诺吸引私信；一个群里发一次即可，别刷屏。"
 },
 {
@@ -46,7 +46,7 @@ title:"经销商定向开发信",
 tags:["开发信","经销商","B端","邮件","Cold Email"],
 body:`Dear [Name],
 
-We are a China-based sourcing partner for FPV drones (5/7/10-inch) and agricultural spray drones, working directly with mid-size factories.
+We are a China-based sourcing partner for FPV drones of all sizes and agricultural spray drones, working directly with mid-size factories.
 
 What we offer to distributors:
 • Complete kits (RTF/BnF/PNP), frames, motors, ESCs, flight controllers, VTX and spare parts;
@@ -60,7 +60,7 @@ May I ask which categories you currently import?
 
 Best regards,
 [Your Name] | China | [WhatsApp/Telegram]`,
-trans:`尊敬的 [名字]：我们是中国的采购伙伴，专注 FPV 无人机（5/7/10 寸）和植保无人机，直接与中型工厂合作。我们为经销商提供：套机（RTF/BnF/PNP）、机架、电机、电调、飞控、图传与配件；OEM 贴牌（logo、配色、包装）起订量灵活；样品 1 台起，批量可到厂验收交货；工厂直供价 + 复购配件稳定供应。如果您正在为[俄罗斯/海湾]市场扩充无人机产品线，我很乐意发送目录和经销商价格。请问您目前进口哪些品类？`,
+trans:`尊敬的 [名字]：我们是中国的采购伙伴，专注 FPV 无人机（全尺寸）和植保无人机，直接与中型工厂合作。我们为经销商提供：套机（RTF/BnF/PNP）、机架、电机、电调、飞控、图传与配件；OEM 贴牌（logo、配色、包装）起订量灵活；样品 1 台起，批量可到厂验收交货；工厂直供价 + 复购配件稳定供应。如果您正在为[俄罗斯/海湾]市场扩充无人机产品线，我很乐意发送目录和经销商价格。请问您目前进口哪些品类？`,
 note:"对经销商的开发信结构：你是谁 → 你能给经销商什么（逐条列价值）→ 你希望客户做什么。B端信里出现 RTF/BnF/PNP、OEM、MOQ 这些术语本身就是专业筛选器。"
 },
 {
@@ -161,7 +161,7 @@ id:"q01", cat:"询盘诊断", langs:["EN"],
 title:"首询盘回复 · 三连问（英文）",
 tags:["询盘","首回复","提问","报价","inquiry"],
 body:`Thanks for your inquiry — this is [Your Name]. To give you an exact factory price (not a generic one), please confirm:
-1. Which model/size? (e.g. 5-inch FPV, 7-inch long-range, 10-inch, agricultural spray drone)
+1. Which model/size? (e.g. FPV freestyle, long-range, heavy-lift, agricultural spray drone)
 2. Quantity — samples (1–10 pcs) or bulk?
 3. Complete kits or parts (frame, motors, flight controller, VTX)?
 
@@ -173,21 +173,21 @@ note:"询盘黄金法则：先问「型号+数量+整机还是配件」三件事
 id:"q02", cat:"询盘诊断", langs:["RU"],
 title:"首询盘回复 · 俄语",
 tags:["询盘","俄语","首回复","Русский"],
-body:`Спасибо за запрос! Я [Ваше имя]. Чтобы дать точную заводскую цену, уточните: 1) модель/размер (5/7/10 дюймов, агродрон), 2) количество — образцы или опт, 3) комплект или запчасти (рама, моторы, контроллер, видеопередача). Условия: цена от завода, видео-проверка перед отправкой, образцы от 1 шт. После вашего ответа — цена и срок в тот же день.`,
-trans:`感谢询价！我是 [你的名字]。为了给出准确的工厂价，请确认：1）型号/尺寸（5/7/10 寸、植保机），2）数量——样品还是批发，3）套机还是配件（机架、电机、飞控、图传）。条款：工厂直供价、发货前视频验货、样品 1 台起。收到您的回复后，当天给出价格和交期。`
+body:`Спасибо за запрос! Я [Ваше имя]. Чтобы дать точную заводскую цену, уточните: 1) модель/размер (FPV, агродрон), 2) количество — образцы или опт, 3) комплект или запчасти (рама, моторы, контроллер, видеопередача). Условия: цена от завода, видео-проверка перед отправкой, образцы от 1 шт. После вашего ответа — цена и срок в тот же день.`,
+trans:`感谢询价！我是 [你的名字]。为了给出准确的工厂价，请确认：1）型号/尺寸（FPV、植保机），2）数量——样品还是批发，3）套机还是配件（机架、电机、飞控、图传）。条款：工厂直供价、发货前视频验货、样品 1 台起。收到您的回复后，当天给出价格和交期。`
 },
 {
 id:"q03", cat:"询盘诊断", langs:["AR"], rtl:true,
 title:"首询盘回复 · 阿拉伯语",
 tags:["询盘","阿拉伯语","首回复","عربي"],
-body:`شكراً على استفساركم! أنا [Your Name]. لإعطائكم سعر المصنع الدقيق، يرجى تأكيد: 1) الموديل/الحجم (5/7/10 بوصة، طائرة رش زراعي)، 2) الكمية — عينات أم جملة، 3) طقم كامل أم قطع (هيكل، محركات، متحكم طيران، إرسال فيديو). شروطنا: سعر المصنع، فحص بالفيديو قبل الشحن، عينات من قطعة واحدة. بعد تأكيدكم، أرسل السعر ومدة التسليم في نفس اليوم.`,
-trans:`感谢您的询价！我是 [你的名字]。为了给出准确的工厂价，请确认：1）型号/尺寸（5/7/10 寸、植保无人机），2）数量——样品还是批发，3）整机套件还是配件（机架、电机、飞控、图传）。我们的条款：工厂直供价、发货前视频验货、样品 1 台起。您确认后，我当天发送价格和交期。`
+body:`شكراً على استفساركم! أنا [Your Name]. لإعطائكم سعر المصنع الدقيق، يرجى تأكيد: 1) الموديل/الحجم (طائرات FPV، طائرة رش زراعي)، 2) الكمية — عينات أم جملة، 3) طقم كامل أم قطع (هيكل، محركات، متحكم طيران، إرسال فيديو). شروطنا: سعر المصنع، فحص بالفيديو قبل الشحن، عينات من قطعة واحدة. بعد تأكيدكم، أرسل السعر ومدة التسليم في نفس اليوم.`,
+trans:`感谢您的询价！我是 [你的名字]。为了给出准确的工厂价，请确认：1）型号/尺寸（FPV、植保无人机），2）数量——样品还是批发，3）整机套件还是配件（机架、电机、飞控、图传）。我们的条款：工厂直供价、发货前视频验货、样品 1 台起。您确认后，我当天发送价格和交期。`
 },
 {
 id:"q04", cat:"询盘诊断", langs:["EN"],
 title:"散单/FPV玩家提问集",
 tags:["FPV","散单","玩家","提问","诊断"],
-body:`1. What size do you fly — 5-inch freestyle, 7-inch long-range, or smaller?
+body:`1. What size do you fly — freestyle, long-range, racing, or heavy-lift?
 2. Analog or digital video system? (analog 5.8G / Walksnail / HDZero / DJI O3-compatible)
 3. Do you want a BnF (bind-and-fly) kit, or just the frame/parts to build yourself?
 4. 4S or 6S battery setup?
@@ -245,7 +245,7 @@ note:"你的策略「样品默认加价、识别到 B 端潜质再放价」的�
 id:"q08", cat:"询盘诊断", langs:["EN"],
 title:"只问价格 · 英文深版（区间价+反抛）",
 tags:["只问价","价格","区间价","反抛","比价"],
-body:`Happy to help. To avoid giving you a wrong number: the same 5-inch drone can range from [low] to [high] depending on the flight controller, ESC, motors, and video system. So I'll give you a range first: for a standard 5-inch freestyle BnF kit with [F722 FC, 45A ESC, 2306 motors, analog VTX], the factory price is roughly [range]. If you tell me your use case and quantity, I'll lock an exact quote you can actually compare — same configuration, same terms.`,
+body:`Happy to help. To avoid giving you a wrong number: the same FPV drone can range from [low] to [high] depending on the flight controller, ESC, motors, and video system. So I'll give you a range first: for a standard freestyle BnF kit with [F722 FC, 45A ESC, 2306 motors, analog VTX], the factory price is roughly [range]. If you tell me your use case and quantity, I'll lock an exact quote you can actually compare — same configuration, same terms.`,
 trans:`很乐意帮忙。为了避免给您一个不准的数字：同一台 5 寸机，配不同的飞控、电调、电机和图传，价格能从 [低] 到 [高] 差出很多。所以先给您一个区间：标准 5 寸花飞 BnF 套机（F722 飞控、45A 电调、2306 电机、模拟图传），工厂价大约在 [区间]。您告诉我用途和数量，我给您一个可以真正比价的精确报价——同样配置、同样条款。`,
 note:"「只问价格」应对的深版打法：①先承认报价复杂性（不同配置价差大）；②给一个「具体配置+价格区间」证明你不是在回避；③反抛「用途+数量」换精确报价。给区间价比一口价高明——留了谈判空间，也展示了专业。"
 },

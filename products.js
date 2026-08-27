@@ -138,5 +138,43 @@ qa:[
  ["供电？","8S 高压。"],
  ["适合什么？","大载荷行业作业、物流、挂载。"],
 ]
+},
+{
+id:"dx18", cat:"FPV 穿越机", model:"DX-18寸", name_zh:"DX-18寸 FPV（重载）", name_en:"DX-18 inch FPV (heavy-lift)", name_ru:"DX-18 дюймов FPV", name_ar:"DX-18 بوصة FPV",
+kpis:["18寸","12S 25000mAh","120A 单体电调","数字图传1080p"],
+points_zh:"18 寸重型 FPV：3K T300 碳纤机架、120A 单体电调、低延迟抗干扰数字图传 1080p、HDR 摄像头、12S 25000mAh。面向大载重、长航时行业应用。",
+points_en:"An 18-inch heavy-lift FPV: 3K T300 carbon frame, 120A standalone ESCs, low-latency anti-interference 1080p digital video, HDR camera, 12S 25000mAh. Built for heavy payload and industrial use.",
+specs:[
+ ["机架","18寸 · 3K T300 碳纤维"],
+ ["飞控","F722 / F405（可选配）"],
+ ["电调","120A 单体电调"],
+ ["图传","低延迟抗干扰数字图传 1080p"],
+ ["摄像头","HDR 150db（可选配）"],
+ ["电机","5322"],
+ ["推荐电池","12S 25000mAh"]
+],
+qa:[
+ ["载重/定位？","重载档，面向行业大载荷应用。"],
+ ["图传？","数字 1080p，低延迟抗干扰。"],
+]
+},
+{
+id:"dx20", cat:"FPV 穿越机", model:"DX-20寸", name_zh:"DX-20寸 FPV（超重载）", name_en:"DX-20 inch FPV (ultra heavy-lift)", name_ru:"DX-20 дюймов FPV", name_ar:"DX-20 بوصة FPV",
+kpis:["20寸","12S 40000mAh","150A 单体电调","超重载"],
+points_zh:"20 寸超重载 FPV：3K T300 碳纤机架、150A 单体电调、数字图传 1080p、HDR 摄像头、12S 40000mAh。全尺寸覆盖的顶端机型，适合超大载荷、行业改装。",
+points_en:"A 20-inch ultra heavy-lift FPV: 3K T300 carbon frame, 150A standalone ESCs, 1080p digital video, HDR camera, 12S 40000mAh. The top of our full-size range, for extra-heavy payload and industrial builds.",
+specs:[
+ ["机架","20寸 · 3K T300 碳纤维"],
+ ["飞控","F722 / F405（可选配）"],
+ ["电调","150A 单体电调"],
+ ["图传","低延迟抗干扰数字图传 1080p"],
+ ["摄像头","HDR 150db（可选配）"],
+ ["电机","8318"],
+ ["推荐电池","12S 40000mAh"]
+],
+qa:[
+ ["定位？","超重载档，全尺寸覆盖的顶端机型。"],
+ ["电池？","12S 40000mAh。"],
+]
 }
 ];
