@@ -103,8 +103,8 @@ note:"被问工厂名的标准拆解：①「独家协议」给出不给名字�
 id:"h11", cat:"大单来华·防绕单", langs:["EN"],
 title:"客户说「我们自己能找到工厂」的应答",
 tags:["防绕单","绕单","应答","价值"],
-body:`You absolutely can — Shenzhen is full of factories. What you can't easily replicate: knowing which of those factories has consistent quality (we've rejected three for every one we keep), video QC on every order, price protection, and a spare-parts pipeline that still answers in 12 months. Direct factory buys work until something goes wrong; our job is to make sure that happens rarely — and when it does, you have someone to call.`,
-trans:`您当然能找到——深圳遍地工厂。但您不容易复制的是：知道哪家质量稳定（我们每留下 1 家要淘汰 3 家）、每单视频验货、价格保护、以及 12 个月后还找得到人的配件管道。直接找工厂，顺利时没事；一旦出问题，您至少得有个能打电话的人。`,
+body:`You absolutely can — China is full of factories. What you can't easily replicate: knowing which of those factories has consistent quality (we've rejected three for every one we keep), video QC on every order, price protection, and a spare-parts pipeline that still answers in 12 months. Direct factory buys work until something goes wrong; our job is to make sure that happens rarely — and when it does, you have someone to call.`,
+trans:`您当然能找到——中国遍地工厂。但您不容易复制的是：知道哪家质量稳定（我们每留下 1 家要淘汰 3 家）、每单视频验货、价格保护、以及 12 个月后还找得到人的配件管道。直接找工厂，顺利时没事；一旦出问题，您至少得有个能打电话的人。`,
 note:"客户说「能自己找工厂」时，不要争辩，承认（显得自信）再拆解「找到工厂≠找到稳定供货」。「12 个月后还找得到人」直击客户对售后配件的恐惧，是这句话的杀招。"
 },
 {

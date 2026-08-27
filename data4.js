@@ -166,8 +166,8 @@ note:"直发国际话术三要素：时效（分市场报）、运费（另报+�
 id:"g03", cat:"物流发货", langs:["EN"],
 title:"时效参考话术（分市场）",
 tags:["物流","时效","俄罗斯","阿联酋","转运"],
-body:`For reference, current transit times from Shenzhen: express/air to UAE 5–10 days, to Russia 7–15 days; dedicated land line to Russia 15–25 days (batteries OK); sea is rarely used for small drone orders. Actual time depends on customs at destination, which neither we nor the factory control.`,
-trans:`供参考，深圳出发的当前时效：快递/空运到阿联酋 5–10 天，到俄罗斯 7–15 天；专线陆运到俄罗斯 15–25 天（可带电池）；无人机小单很少走海运。实际时间取决于目的国清关速度——这既不在我们也不在工厂的控制范围内。`,
+body:`For reference, current transit times from China: express/air to UAE 5–10 days, to Russia 7–15 days; dedicated land line to Russia 15–25 days (batteries OK); sea is rarely used for small drone orders. Actual time depends on customs at destination, which neither we nor the factory control.`,
+trans:`供参考，中国出发的当前时效：快递/空运到阿联酋 5–10 天，到俄罗斯 7–15 天；专线陆运到俄罗斯 15–25 天（可带电池）；无人机小单很少走海运。实际时间取决于目的国清关速度——这既不在我们也不在工厂的控制范围内。`,
 note:"时效话术的铁律：给区间+声明「清关不可控」。中东和俄罗斯的清关时长波动大，提前免责能避免 90% 的时效纠纷。"
 },
 {

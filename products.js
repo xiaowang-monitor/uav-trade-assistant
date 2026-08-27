@@ -1,4 +1,4 @@
-/* 产品数据 · 第一批模板：FPV 穿越机 DX 系列（京蜂线） */
+/* 产品数据 · 第一批模板：FPV 穿越机 DX 系列（工厂线） */
 /* 字段：id, cat, model, name_zh/en/ru/ar, kpis[], points_zh/en/ru/ar, specs[[k,v]], qa[[q,a]], img */
 window.PRODUCTS = [
 {

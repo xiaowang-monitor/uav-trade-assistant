@@ -42,8 +42,8 @@ note:"专业感的来源不是背参数，而是「按客户场景给方案」�
 id:"c22", cat:"产品专家", langs:["EN"],
 title:"大疆防御 · 客户问「有没有大疆」",
 tags:["大疆","防御","品牌","兜底"],
-body:`Honest answer: we don't carry DJI — we're not an authorized DJI channel. Our focus is working directly with Shenzhen factories on FPV drones, agricultural spray drones, and parts, where we can offer you three things DJI channels typically can't: factory-direct pricing, OEM/customization, and spare-parts flexibility. If your project specifically requires a DJI product, I can still help source it from the market — but pricing will just follow market rate, and warranty stays with the official channel.`,
-trans:`诚实回答：我们不卖大疆——我们不是大疆授权渠道。我们的重心是与深圳工厂直接合作做 FPV、植保机和配件，能给您三样大疆渠道通常给不了的东西：工厂直供价、OEM 定制、配件灵活供应。如果您的项目明确要大疆产品，我也可以帮您从市场上找——但价格只能随行就市，保修走官方渠道。`,
+body:`Honest answer: we don't carry DJI — we're not an authorized DJI channel. Our focus is working directly with China factories on FPV drones, agricultural spray drones, and parts, where we can offer you three things DJI channels typically can't: factory-direct pricing, OEM/customization, and spare-parts flexibility. If your project specifically requires a DJI product, I can still help source it from the market — but pricing will just follow market rate, and warranty stays with the official channel.`,
+trans:`诚实回答：我们不卖大疆——我们不是大疆授权渠道。我们的重心是与中国工厂直接合作做 FPV、植保机和配件，能给您三样大疆渠道通常给不了的东西：工厂直供价、OEM 定制、配件灵活供应。如果您的项目明确要大疆产品，我也可以帮您从市场上找——但价格只能随行就市，保修走官方渠道。`,
 note:"大疆防御三原则：①不贬低大疆（显格局）；②立刻转场到自己的价值（工厂价/OEM/配件）；③留兜底（可帮找但不承诺低价）。这样既不丢单也不丢人。"
 },
 {

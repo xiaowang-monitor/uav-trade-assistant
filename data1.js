@@ -4,40 +4,40 @@ window.CARDS1 = [
 id:"e01", cat:"开发破冰", langs:["RU"],
 title:"俄语破冰首条（WhatsApp/Telegram）",
 tags:["俄语","破冰","WhatsApp","Telegram","俄罗斯","首条消息","Русский"],
-body:`Здравствуйте, [Имя]! Меня зовут [Ваше имя]. Мы в Шэньчжэне работаем напрямую с заводами-производителями FPV-дронов (5/7/10 дюймов) и агродронов. Поставляем комплекты, рамы, моторы, полётные контроллеры, видеопередачу и запчасти. Работаем с дилерами и оптовиками: образцы от 1 шт., доставка со склада завода. Могу отправить актуальный прайс и видео с производства. Какие позиции вам интересны?`,
-trans:`您好，[名字]！我叫 [你的名字]。我们在深圳直接与 FPV 无人机（5/7/10 寸）和植保机的生产工厂合作。供应套机、机架、电机、飞控、图传和配件。我们与经销商和批发商合作：样品 1 台起，工厂仓发货。我可以发送最新报价单和生产视频。您对哪些产品感兴趣？`,
-note:"俄语破冰三要素：①尊称+自我介绍一句；②「深圳+工厂直供+产品清单」建立专业感；③「1 台起、工厂发货」消除散单门槛；④开放式问题收尾。对俄罗斯客户用 Вы（您）而非 ты（你），显得正式可靠。"
+body:`Здравствуйте, [Имя]! Меня зовут [Ваше имя]. Мы в Китае работаем напрямую с заводами-производителями FPV-дронов (5/7/10 дюймов) и агродронов. Поставляем комплекты, рамы, моторы, полётные контроллеры, видеопередачу и запчасти. Работаем с дилерами и оптовиками: образцы от 1 шт., доставка со склада завода. Могу отправить актуальный прайс и видео с производства. Какие позиции вам интересны?`,
+trans:`您好，[名字]！我叫 [你的名字]。我们在中国直接与 FPV 无人机（5/7/10 寸）和植保机的生产工厂合作。供应套机、机架、电机、飞控、图传和配件。我们与经销商和批发商合作：样品 1 台起，工厂仓发货。我可以发送最新报价单和生产视频。您对哪些产品感兴趣？`,
+note:"俄语破冰三要素：①尊称+自我介绍一句；②「中国+工厂直供+产品清单」建立专业感；③「1 台起、工厂发货」消除散单门槛；④开放式问题收尾。对俄罗斯客户用 Вы（您）而非 ты（你），显得正式可靠。"
 },
 {
 id:"e02", cat:"开发破冰", langs:["AR"], rtl:true,
 title:"阿拉伯语破冰首条（WhatsApp）",
 tags:["阿拉伯语","破冰","WhatsApp","中东","阿联酋","首条消息","عربي"],
-body:`السلام عليكم [Name]، أنا [Your Name] من شنتشن، الصين. نعمل مباشرة مع مصانع طائرات FPV بدون طيار (5/7/10 بوصة) وطائرات الرش الزراعي وقطع الغيار. نوفر عينات من قطعة واحدة، والتسليم من المصنع، وأسعار جملة للوكلاء. هل أرسل لكم قائمة الأسعار الحالية وفيديو من المصنع؟ وما المنتجات التي تهمكم؟`,
-trans:`您好 [名字]，我是来自中国深圳的 [你的名字]。我们直接与 FPV 无人机（5/7/10 寸）、植保无人机和配件的工厂合作。样品 1 台起、工厂发货，面向代理商提供批发价。需要我发送最新价格单和工厂视频吗？您对哪些产品感兴趣？`,
+body:`السلام عليكم [Name]، أنا [Your Name] من الصين. نعمل مباشرة مع مصانع طائرات FPV بدون طيار (5/7/10 بوصة) وطائرات الرش الزراعي وقطع الغيار. نوفر عينات من قطعة واحدة، والتسليم من المصنع، وأسعار جملة للوكلاء. هل أرسل لكم قائمة الأسعار الحالية وفيديو من المصنع؟ وما المنتجات التي تهمكم؟`,
+trans:`您好 [名字]，我是来自中国中国的 [你的名字]。我们直接与 FPV 无人机（5/7/10 寸）、植保无人机和配件的工厂合作。样品 1 台起、工厂发货，面向代理商提供批发价。需要我发送最新价格单和工厂视频吗？您对哪些产品感兴趣？`,
 note:"中东客户先用「السلام عليكم」（愿平安与你同在）问候，比直接 Hello 更亲近；强调「工厂直供+批发价+1台起」三个信任点；避免周五和斋月白天发消息。"
 },
 {
 id:"e03", cat:"开发破冰", langs:["EN"],
 title:"英文破冰首条",
 tags:["破冰","WhatsApp","Telegram","首条消息","英文"],
-body:`Hi [Name], this is [Your Name] — we work directly with FPV drone (5/7/10-inch) and agricultural drone factories in Shenzhen. We supply complete kits, frames, motors, flight controllers, video systems and spare parts, with samples from 1 pc and factory-direct shipping. Can I send you our current price list and a short factory video? What products are you looking for?`,
-trans:`嗨 [名字]，我是 [你的名字]——我们直接与深圳的 FPV 无人机（5/7/10 寸）和植保机工厂合作。供应套机、机架、电机、飞控、图传和配件，样品 1 台起、工厂直发。我可以把最新价格单和一段工厂短视频发给你吗？你在找什么产品？`,
+body:`Hi [Name], this is [Your Name] — we work directly with FPV drone (5/7/10-inch) and agricultural drone factories in China. We supply complete kits, frames, motors, flight controllers, video systems and spare parts, with samples from 1 pc and factory-direct shipping. Can I send you our current price list and a short factory video? What products are you looking for?`,
+trans:`嗨 [名字]，我是 [你的名字]——我们直接与中国的 FPV 无人机（5/7/10 寸）和植保机工厂合作。供应套机、机架、电机、飞控、图传和配件，样品 1 台起、工厂直发。我可以把最新价格单和一段工厂短视频发给你吗？你在找什么产品？`,
 note:"一句话自我介绍+产品范围+「1台起、工厂直发」散单友好信号+「视频钩子」+开放式问题。视频是 FPV 品类最有效的破冰武器（飞行画面比文字更有说服力）。"
 },
 {
 id:"e04", cat:"开发破冰", langs:["EN"],
 title:"群组/社媒破冰（FPV群、进出口群、植保群）",
 tags:["群组","社媒","破冰","FPV","植保","Telegram"],
-body:`Hi everyone — we're a Shenzhen-based sourcing team working directly with FPV and agri-drone factories. For anyone importing drones or parts to Russia / the Middle East: we handle factory-direct pricing, video QC before shipping, and samples from 1 pc. If you need a specific model (5/7/10-inch FPV, frames, motors, VTX, spray systems), drop me a message — I'll reply with specs and price the same day.`,
-trans:`大家好——我们是深圳的采购团队，直接与 FPV 和植保机工厂合作。面向俄罗斯/中东进口无人机或配件的朋友：我们提供工厂直供价、发货前视频验货、1 台起样品。如果你需要具体型号（5/7/10 寸 FPV、机架、电机、图传、喷洒系统），私信我——当天回复参数和价格。`,
+body:`Hi everyone — we're a China-based sourcing team working directly with FPV and agri-drone factories. For anyone importing drones or parts to Russia / the Middle East: we handle factory-direct pricing, video QC before shipping, and samples from 1 pc. If you need a specific model (5/7/10-inch FPV, frames, motors, VTX, spray systems), drop me a message — I'll reply with specs and price the same day.`,
+trans:`大家好——我们是中国的采购团队，直接与 FPV 和植保机工厂合作。面向俄罗斯/中东进口无人机或配件的朋友：我们提供工厂直供价、发货前视频验货、1 台起样品。如果你需要具体型号（5/7/10 寸 FPV、机架、电机、图传、喷洒系统），私信我——当天回复参数和价格。`,
 note:"群组（FPV 玩家群、无人机进出口群、植保群）破冰：不要硬发广告链接，用「价值清单+当天回复」的承诺吸引私信；一个群里发一次即可，别刷屏。"
 },
 {
 id:"e05", cat:"开发破冰", langs:["EN"],
 title:"LinkedIn 私信 · B端经销商",
 tags:["LinkedIn","经销商","B端","私信","开发"],
-body:`Hi [Name], I came across your company — I see you distribute [drones / agri equipment] in [Russia / UAE]. We work directly with Shenzhen FPV and agricultural drone factories, handling OEM branding, stable spare-parts supply, and factory-direct pricing for wholesalers. Would you be open to a short call or a price list for the models you currently move?`,
-trans:`嗨 [名字]，我看到了贵公司——注意到你们在[俄罗斯/阿联酋]经销[无人机/农业设备]。我们直接与深圳 FPV 和植保机工厂合作，可做 OEM 贴牌、稳定配件供应，为批发商提供工厂直供价。您是否愿意简单通个电话，或者让我发一份你们目前在售型号的价格单？`,
+body:`Hi [Name], I came across your company — I see you distribute [drones / agri equipment] in [Russia / UAE]. We work directly with China FPV and agricultural drone factories, handling OEM branding, stable spare-parts supply, and factory-direct pricing for wholesalers. Would you be open to a short call or a price list for the models you currently move?`,
+trans:`嗨 [名字]，我看到了贵公司——注意到你们在[俄罗斯/阿联酋]经销[无人机/农业设备]。我们直接与中国 FPV 和植保机工厂合作，可做 OEM 贴牌、稳定配件供应，为批发商提供工厂直供价。您是否愿意简单通个电话，或者让我发一份你们目前在售型号的价格单？`,
 note:"B端破冰要「点名对方业务」证明你做过功课；抛出的钩子是批发商最关心的三件事：OEM、配件供应稳定性、工厂价。结尾二选一（电话/价格单）降低回复门槛。"
 },
 {
@@ -46,7 +46,7 @@ title:"经销商定向开发信",
 tags:["开发信","经销商","B端","邮件","Cold Email"],
 body:`Dear [Name],
 
-We are a Shenzhen-based sourcing partner for FPV drones (5/7/10-inch) and agricultural spray drones, working directly with mid-size factories.
+We are a China-based sourcing partner for FPV drones (5/7/10-inch) and agricultural spray drones, working directly with mid-size factories.
 
 What we offer to distributors:
 • Complete kits (RTF/BnF/PNP), frames, motors, ESCs, flight controllers, VTX and spare parts;
@@ -59,8 +59,8 @@ If you are expanding your drone line for [Russia / GCC], I would be glad to send
 May I ask which categories you currently import?
 
 Best regards,
-[Your Name] | Shenzhen | [WhatsApp/Telegram]`,
-trans:`尊敬的 [名字]：我们是深圳的采购伙伴，专注 FPV 无人机（5/7/10 寸）和植保无人机，直接与中型工厂合作。我们为经销商提供：套机（RTF/BnF/PNP）、机架、电机、电调、飞控、图传与配件；OEM 贴牌（logo、配色、包装）起订量灵活；样品 1 台起，批量可到厂验收交货；工厂直供价 + 复购配件稳定供应。如果您正在为[俄罗斯/海湾]市场扩充无人机产品线，我很乐意发送目录和经销商价格。请问您目前进口哪些品类？`,
+[Your Name] | China | [WhatsApp/Telegram]`,
+trans:`尊敬的 [名字]：我们是中国的采购伙伴，专注 FPV 无人机（5/7/10 寸）和植保无人机，直接与中型工厂合作。我们为经销商提供：套机（RTF/BnF/PNP）、机架、电机、电调、飞控、图传与配件；OEM 贴牌（logo、配色、包装）起订量灵活；样品 1 台起，批量可到厂验收交货；工厂直供价 + 复购配件稳定供应。如果您正在为[俄罗斯/海湾]市场扩充无人机产品线，我很乐意发送目录和经销商价格。请问您目前进口哪些品类？`,
 note:"对经销商的开发信结构：你是谁 → 你能给经销商什么（逐条列价值）→ 你希望客户做什么。B端信里出现 RTF/BnF/PNP、OEM、MOQ 这些术语本身就是专业筛选器。"
 },
 {
@@ -83,8 +83,8 @@ note:"第二波跟进用「痛点三选一」问题代替推销：客户只要�
 id:"e09", cat:"开发破冰", langs:["EN"],
 title:"跟进③ · 放弃式挽回",
 tags:["跟进","挽回","体面退场","follow up"],
-body:`Hi [Name], I'll leave you in peace after this. Just one line for your records: we do factory-direct FPV/agri-drone supply from Shenzhen, samples from 1 pc, video QC before every shipment, and distributor pricing. If anything changes on your side — new projects, new models — I'm one message away.`,
-trans:`嗨 [名字]，这是最后一条打扰了。留一句话给您备档：我们做深圳工厂直供的 FPV/植保机，样品 1 台起，每单发货前视频验货，经销商价格。如果你们那边有变化——新项目、新机型——随时一条消息就能找到我。`,
+body:`Hi [Name], I'll leave you in peace after this. Just one line for your records: we do factory-direct FPV/agri-drone supply from China, samples from 1 pc, video QC before every shipment, and distributor pricing. If anything changes on your side — new projects, new models — I'm one message away.`,
+trans:`嗨 [名字]，这是最后一条打扰了。留一句话给您备档：我们做中国工厂直供的 FPV/植保机，样品 1 台起，每单发货前视频验货，经销商价格。如果你们那边有变化——新项目、新机型——随时一条消息就能找到我。`,
 note:"第三波用「体面退场」话术：客户不回也不丢人，反而显得专业不纠缠。很多客户会在几个月后带着真实询盘回来。发完这波就停，转月度价值触达。"
 },
 {
@@ -102,7 +102,7 @@ id:"e11", cat:"开发破冰", langs:["ZH"],
 title:"破冰三秒法则（内功）",
 tags:["破冰","三秒法则","心法","内功"],
 body:`客户看首条消息只有 3 秒，决定是否回复。三条铁律：
-1. 一句话说清你是谁（Shenzhen factory-direct supplier）；
+1. 一句话说清你是谁（China factory-direct supplier）；
 2. 一句话说清对他有什么用（samples from 1pc / distributor price / video QC）；
 3. 一个只用一个词就能回答的问题（"Which models?" 而非 "Could you tell me your requirements in detail?"）。
 

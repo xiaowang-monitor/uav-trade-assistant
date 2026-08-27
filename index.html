@@ -169,7 +169,7 @@ function pT(p,field){var m={zh:p.points_zh,en:p.points_en,ru:p.points_ru,ar:p.po
 function prodHTML(p){
   var q=state.q.trim();
   var kpis=(p.kpis||[]).map(function(k){return '<span class="kpi">'+esc(k)+'</span>';}).join("");
-  var pts=!p.risky?(function(){var x=pT(p);return x?'<div class="body"><span style="font-size:11px;font-weight:700;color:'+($("#s")?'#0f766e':'"#0f766e"')+';letter-spacing:1px">✨ 卖点</span><br>'+hl(x,q)+'</div>':'';})():'';
+  var pts=!p.risky?(function(){var x=pT(p);return x?'<div class="body"><span style="font-size:11px;font-weight:700;color:#0f766e;letter-spacing:1px">✨ 卖点</span><br>'+hl(x,q)+'</div>':'';})():'';
   var risky=p.risky?'<span class="riskbow">⚠ 仅参数</span>':'';
   var specs=(p.specs||[]).filter(function(s){return s[1]||s[0];}).map(function(s){return '<tr><td class="k">'+esc(s[0])+'</td><td class="v">'+esc(s[1])+'</td></tr>';}).join("");
   var qa=(p.qa||[]).filter(function(x){return x[0];}).map(function(x){return '<div class="qa"><b>Q：'+esc(x[0])+'</b><br>A：'+esc(x[1])+'</div>';}).join("");
@@ -246,8 +246,9 @@ document.addEventListener("click",function(e){
     var id=t.getAttribute("data-copy");
     if(state.tab==='product'){var p=byId(id);if(p){var ptxt=!p.risky?pT(p):"";var st=(p.specs||[]).map(function(s){return s[0]+(s[1]?": "+s[1]:"");}).join("\n");copyTxt("【"+p.model+"】"+(ptxt?"\n"+ptxt:"")+(st?"\n"+st:""),"已复制产品资料 ✔");}}
     else{var sc=SCRIPTS.filter(function(x){return x.id===id;})[0];if(sc)copyTxt(sc.body,"已复制外文 ✔");}
-    t.classList.add("copied");t.textContent="✔ 已复制";setTimeout(function(){t.classList.remove("copied");t.textContent=t.getAttribute("data-orig")||"📋 复制";},1400);
-    if(!t.getAttribute("data-orig"))t.setAttribute("data-orig",state.tab==='product'?"📋 复制产品资料":"📋 复制话术");
+    var orig=t.textContent;
+    t.classList.add("copied");t.textContent="✔ 已复制";
+    setTimeout(function(){t.classList.remove("copied");t.textContent=orig;},1400);
     return;
   }
   if(t.id==="topBtn"){window.scrollTo({top:0,behavior:"smooth"});return;}
